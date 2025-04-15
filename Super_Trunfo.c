@@ -35,7 +35,7 @@ int main() {
     printf("Nome da Cidade:%s\n", nome);
     printf("População:%d Habitantes\n", populacao);
     printf("Área:%.2f Km²\n", area);
-    printf("PIB: R$ %.3f Milhões de Reais\n", PIB);
+    printf("PIB: R$ %.3f Bilhões de Reais\n", PIB);
     printf("Pontos Turísticos:%d\n \n", pontos_turisticos);
 
     //AGORA INICIAR O CADASTRO DA CARTA 02
@@ -69,7 +69,7 @@ int main() {
     printf("Nome da cidade:%s\n", nome);
     printf("População:%d Habitantes\n", populacao);
     printf("Área:%.2f Km²\n", area);
-    printf("PIB: R$ %.3f Milhões de Reais\n", PIB);
+    printf("PIB: R$ %.3f Bilhões de Reais\n", PIB);
     printf("Número de Pontos turísticos:%d\n \n \n", pontos_turisticos);
 
     return 0;
